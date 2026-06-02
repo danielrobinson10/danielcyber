@@ -1,47 +1,43 @@
-<h1>Hey, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">IAM Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Daniel Robinson
 
-<h2>👨‍💻 IAM Projects:</h2>
+## Aspiring IAM Analyst | Entra ID | Okta | SSO/MFA | Access Governance | PAM
 
-- <b>IAM Fundamental Notes</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+I am building my career in Identity and Access Management with a focus on workforce IAM, Microsoft Entra ID, Okta, SSO/MFA, access governance, privileged access management, and CIAM.
 
-<h2>📄 Certifications</h2>
+My current projects focus on:
+- Microsoft Entra ID workforce identity administration
+- Okta SSO and MFA
+- Joiner-Mover-Leaver identity lifecycle workflows
+- Access reviews and audit evidence
+- Privileged Access Management design
+- CIAM authentication flows using OAuth/OIDC concepts
 
-- CompTIA Security+
-- SC-300
-- Okta Certified Professional
-- CyberArk Defender PAM
-- CyberArk Sentry PAM
-- CIAM
+## Current Focus
 
-<h2>📺 Popular YouTube Videos</h2>
+- Studying for CompTIA Security+
+- Building hands-on IAM projects
+- Learning Microsoft Entra ID, Okta, SAML, OAuth, OIDC, RBAC, and PAM
+- Preparing for IAM Analyst, Access Management Analyst, SSO Analyst, and PAM Analyst roles
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## Featured IAM Projects
 
-<h2> 🤳 Connect with me:</h2>
+| Project | Focus |
+|---|---|
+| Entra ID Workforce IAM Lab | Users, groups, RBAC, MFA, Conditional Access, access reviews |
+| Okta SSO/MFA Lab | SSO, MFA, app assignments, sign-on policies, lifecycle management |
+| Joiner-Mover-Leaver Workflow | Onboarding, transfers, offboarding, approvals, audit evidence |
+| Quarterly Access Review Case Study | Reviewer decisions, remediation, compliance evidence |
+| PAM Access Model Case Study | Privileged accounts, vaulting, password rotation, break-glass access |
+| CIAM Login Portal | OIDC, OAuth, MFA, social login, protected routes |
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Skills I Am Building
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/@tieeee
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/danielrobinson10/
+**IAM:** Microsoft Entra ID, Okta, SSO, MFA, RBAC, access reviews, least privilege, identity lifecycle  
+**Security:** Security+, Zero Trust, PAM, audit evidence, risk management  
+**Protocols:** SAML, OAuth 2.0, OpenID Connect, JWT  
+**Technical:** Linux, networking, troubleshooting, ticketing systems, virtualization, GitHub documentation
 
+## Connect
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/danielrobinson10
+- Portfolio: add your portfolio URL here
